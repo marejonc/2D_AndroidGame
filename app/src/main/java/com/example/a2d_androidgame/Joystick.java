@@ -2,7 +2,7 @@ package com.example.a2d_androidgame;
 
 import android.graphics.*;
 
-public class Joystick
+class Joystick
 {
     private int outerCircleCenterPositionX;
     private int outerCircleCenterPositionY;

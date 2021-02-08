@@ -3,7 +3,7 @@ package com.example.a2d_androidgame;
 import android.graphics.*;
 import android.view.*;
 
-public class GameLoop extends Thread
+class GameLoop extends Thread
 {
     private boolean isRunning = false;
     private Game game;
